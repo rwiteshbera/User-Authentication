@@ -23,7 +23,7 @@ Installation and Setup
     ```bash
     npm install
     ```
-- Connect MongoDB Database by adding MongoURI in [](config/keys.js)
+- Connect MongoDB Database by adding MongoURI in [config/keys.js](config/keys.js) file.
 - Start the server
     ```bash
     npm run dev
